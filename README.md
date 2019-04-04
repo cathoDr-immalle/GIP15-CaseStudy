@@ -5,5 +5,5 @@ Mijn case study gaat over een dynamische website (https://mybenefit.be/nl/).  Ee
 
 Via Httrack download ik de site op mijn eigen computer. IK download de site 4 keer, in het Nederlands, Duits, Frans en Engels. Vervolgens open ik de index.html van de nederlandse versie.
 
-
+![image](https://user-images.githubusercontent.com/31878985/55574855-b981e580-570d-11e9-8327-45a1721bc488.png)
 Ik krijg deze pagina te zien en met inspecteren zoek ik waar de code van de loadpage kan vinden. Daarna zoek ik deze via Visual Studio Code in mijn html code en verwijder dat stukje code van de pageloading-mask. 
